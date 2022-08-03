@@ -6,9 +6,11 @@ banner:
   content : "Besides its beautiful design. Laapp is an incredibly rich core framework for you to showcase your App."
   image_webp : "images/mobile.webp"
   image : "images/mobile.png"
-  button:
-    label : "Download Now"
-    link : "#"
+  b_button:
+    - label : "Download for iOS"
+      link : "#"
+    - label : "Download for Android"
+      link : "#"
     
 ######################## banner-feature ###########################
 banner_feature:

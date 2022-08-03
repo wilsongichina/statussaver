@@ -31,7 +31,7 @@
 			<div class="col-md-6 order-2 order-md-1 text-center text-md-left">
 				<h1 class="text-white font-weight-bold mb-4">{{ .title | safeHTML | markdownify }}</h1>
 				<p class="text-white mb-5">{{ .content | safeHTML | markdownify }}</p>
-				{{ with .button }}
+				{{ range .b_button }}
 				<a href="{{ .link | absLangURL }}" class="btn font-weight-bold btn-main-md">{{ .label }}</a>
 				{{ end }}
 			</div>
@@ -54,7 +54,7 @@
 			<div class="row justify-content-center">
 				{{ range .feature_item }}
 				<div class="col-md-4 mb-4 text-center">
-					<i class="{{ .icon }} text-primary h1"></i>
+					<i class="{{ .icon }} text-primary_alt h1"></i>
 					<h3 class="mt-4 text-capitalize h5 ">{{.title }}</h3>
 					<p class="regular text-muted">{{.content | markdownify }}</p>
 				</div>
