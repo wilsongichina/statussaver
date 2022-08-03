@@ -7,9 +7,9 @@ banner:
   image_webp : "images/mobile.webp"
   image : "images/mobile.png"
   b_button:
-    - label : "Download for iOS"
+    - image_path : "images/download-on-the-app-store.svg"
       link : "#"
-    - label : "Download for Android"
+    - image_path : "images/Google_Play_Store_badge_EN.svg"
       link : "#"
     
 ######################## banner-feature ###########################
