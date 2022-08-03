@@ -120,37 +120,6 @@
 {{ "<!-- End of Client Slider -->" | safeHTML }}
 
 
-{{ "<!-- Investors -->" | safeHTML }}
-{{ if $data.about.investors.enable }}
-{{ with $data.about.investors }}
-<section class="section investors">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="section-title">
-          <h2>{{ .title | safeHTML | markdownify }}</h2>
-          <p>{{ .content | safeHTML | markdownify }}</p>
-        </div>
-      </div>
-      {{ range .investor }}
-      <div class="col-lg-3 col-md-6">
-        <div class="block text-center">
-          <div class="image shadow hover-zoom">
-            <img src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" class="img-fluid" alt="{{ .name }}">
-          </div>
-          <h3>{{ .name | safeHTML | markdownify }}</h3>
-          <p>{{ .designation | safeHTML | markdownify }}</p>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of Investors -->" | safeHTML }}
-
-
 {{ "<!-- call to action -->" | safeHTML }}
 {{ if $data.about.call_to_action.enable }}
 {{ with $data.about.call_to_action }}
