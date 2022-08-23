@@ -16,8 +16,8 @@ our_story:
 ############################ behind story ##############################
 behind_story:
   enable : true
-  title : "Why we created Small Apps"
-  content : "Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Proin eget tortor risus. Proin eget tortor risus. Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat."
+  title : "Whatsapp for Business"
+  content : "Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus."
 
 ############################ about us ##############################
 about_us:
@@ -27,6 +27,12 @@ about_us:
     - title : "Our Story"
       image : "images/about/story.jpg"
       image_webp : "images/about/story.webp"
+      content : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+      
+    # about item loop
+    - title : "What we do"
+      image : "images/about/plan.jpg"
+      image_webp : "images/about/plan.webp"
       content : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
       
     # about item loop
@@ -112,9 +118,13 @@ investors :
 ############################ call to action ##############################
 call_to_action:
   enable : true
-  title : "Become a patron– join a creator's page"
+  title : "Become a member download the App Now"
   content : "Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus."
   button:
     enable : true
-    label : "join the team"
-    link : "#"
+    
+  b_button:
+    - image_path : "/images/download-on-the-app-store.svg"
+      link : "#"
+    - image_path : "/images/Google_Play_Store_badge_EN.svg"
+      link : "#"
