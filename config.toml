@@ -81,7 +81,7 @@ hasChildren = true
 
 # footer menu
 [[Languages.en.menu.footer]]
-name = "About"
+name = "Aboutt"
 URL = "about"
 
 [[Languages.en.menu.footer]]
