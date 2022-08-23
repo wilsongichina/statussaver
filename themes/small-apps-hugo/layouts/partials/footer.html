@@ -25,17 +25,17 @@
 
 {{ "<!-- Google Map API -->" | safeHTML }}
 {{ with .Site.Params.map.gmap_api }}
-<script src="{{ . | safeURL }}"></script>
+<script src="/{{ . | safeURL }}"></script>
 {{ end }}
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js }}
-<script src="{{ .link | absURL }}"></script>
+<script src="/{{ .link | absURL }}"></script>
 {{ end }}
 
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify }}
-<script src="{{ $script.Permalink }}"></script>
+<script src="/{{ $script.Permalink }}"></script>
 
 {{ "<!-- google analitycs -->" | safeHTML }}
 {{ with .Site.Params.google_analitycs_id}}
