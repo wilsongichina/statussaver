@@ -36,13 +36,13 @@ link = "plugins/google-map/gmap.js"
 ############################ Navigation English #################################
 # main menu
 [[Languages.en.menu.main]]
-name = "About"
-URL = "about"
+name = "About Us"
+URL = "about-us"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "team"
-URL = "team"
+name = "App Features"
+URL = "/app-features"
 weight = 2
 
 [[Languages.en.menu.main]]
@@ -51,32 +51,33 @@ URL = "blog"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "career"
-URL = "career"
+name = "FAQs"
+URL = "faq"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "Contact"
-URL = "contact"
+name = "Blog"
+URL = "blog"
 weight = 5
 
 # dropdown menu
 [[Languages.en.menu.main]]
-name = "Pages"
+name = "Terms"
 weight = 6
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "privacy"
-  URL = "privacy"
+  parent = "Terms"
+  name = "Privacy Policy"
+  URL = "privacy-policy"
   weight = 1
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
+  parent = "Terms"
+  name = "Terms and Conditions"
+  URL = "terms-and-conditions"
   weight = 2
+
 
 
 # footer menu

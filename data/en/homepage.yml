@@ -135,7 +135,3 @@ download:
     - label : "Android"
       icon : "tf-ion-social-android"
       link : "#"
-      
-    - label : "Windows"
-      icon : "tf-ion-social-windows"
-      link : "#"
