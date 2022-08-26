@@ -1,5 +1,6 @@
 ---
-title: "Innovation distinguishes between a leader and a follower."
+title: "Beta"
+url: "/beta"
 date: 2019-02-28T12:35:54+06:00
 # post thumb
 image : "images/blog/post-02.jpg"
@@ -9,7 +10,7 @@ author : "Selina Gomez"
 # meta description
 description: "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta."
 # type
-type : "post"
+type: "content-page-l"
 ---
 
 Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.

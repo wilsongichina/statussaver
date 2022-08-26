@@ -81,29 +81,46 @@ hasChildren = true
 
 
 # footer menu
-[[Languages.en.menu.footer]]
-name = "Aboutt"
-URL = "about"
 
 [[Languages.en.menu.footer]]
-name = "Contact"
-URL = "contact"
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "About Us"
+URL = "about-us"
+weight = 2
 
 [[Languages.en.menu.footer]]
-name = "Privacy"
-URL = "privacy"
+name = "App Features"
+URL = "/app-features"
+weight = 3
 
 [[Languages.en.menu.footer]]
 name = "Blog"
 URL = "blog"
+weight = 4
 
 [[Languages.en.menu.footer]]
-name = "FAQ"
+name = "FAQs"
 URL = "faq"
+weight = 5
+
+[[Languages.en.menu.footer]]
+name = "Blog"
+URL = "blog"
+weight = 6
+
+[[Languages.en.menu.footer]]
+name = "Privacy Policy"
+URL = "privacy-policy"
+weight = 7
 
 [[Languages.en.menu.footer]]
 name = "Terms and Conditions"
 URL = "terms-and-conditions"
+weight = 8
 
 ############################ Navigation French #################################
 # main menu
@@ -236,3 +253,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
+
+# [permalinks]
+#   content-pages = '/:title/:title'
+#   blog = '/:title/'
