@@ -2,8 +2,8 @@
 title: "Thomas Johnson"
 email: "email2@example.org"
 # portrait
-image: "images/team/design-team-02.jpg"
-image_webp: "images/team/design-team-02.webp"
+image: "/images/team/design-team-02.jpg"
+image_webp: "/images/team/design-team-02.webp"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # social

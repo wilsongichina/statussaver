@@ -2,8 +2,8 @@
 title: "Innovation"
 date: 2019-02-28T12:35:54+06:00
 # post thumb
-image : "images/feature/featured-article.jpg"
-image_webp : "images/feature/featured-article.webp"
+image : "/images/feature/featured-article.jpg"
+image_webp : "/images/feature/featured-article.webp"
 # post author
 author : "Thomas Johnson"
 # meta description

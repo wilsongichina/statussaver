@@ -659,9 +659,9 @@ weight = 8
 ########################### Default parameters ###########################
 [params]
 # main logo
-logo = "images/logo.png"
+logo = "/images/logo.png"
 # footer logo
-logo_light = "images/logo-alt.png"
+logo_light = "/images/logo-alt.png"
 home = "Home"
 # Meta data
 description = "This is meta description"

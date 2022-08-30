@@ -3,8 +3,8 @@ title: "Beta"
 url: "/beta"
 date: 2019-02-28T12:35:54+06:00
 # post thumb
-image : "images/blog/post-02.jpg"
-image_webp : "images/blog/post-02.webp"
+image : "/images/blog/post-02.jpg"
+image_webp : "/images/blog/post-02.webp"
 # post author
 author : "Selina Gomez"
 # meta description

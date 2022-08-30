@@ -2,8 +2,8 @@
 title: "Selina Gomez"
 email: "selinagomez@example.org"
 # portrait
-image: "images/team/design-team-01.jpg"
-image_webp: "images/team/design-team-01.webp"
+image: "/images/team/design-team-01.jpg"
+image_webp: "/images/team/design-team-01.webp"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # social

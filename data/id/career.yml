@@ -3,22 +3,22 @@ promo:
   enable : true
   title : "Who we're looking for"
   content : "Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. eget tortor risus. Vivamus magna justo, lacinia eget consectetur sed,convallis at tellus. Vivamus suscipit tortor eget felis porttitor volutpat.Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis"
-  video_thumb : "images/thumbs/promo-video-thumbnail.jpg"
-  video_thumb_webp : "images/thumbs/promo-video-thumbnail.webp"
+  video_thumb : "/images/thumbs/promo-video-thumbnail.jpg"
+  video_thumb_webp : "/images/thumbs/promo-video-thumbnail.webp"
   video_embed_url : "https://www.youtube.com/embed/g3-VxLQO7do?autoplay=1"
 
 ############################## gallery ##############################
 gallery:
   enable : true
   gallery_item:
-    - image : "images/gallery/gallery-01.jpg"
-      image_webp : "images/gallery/gallery-01.webp"
+    - image : "/images/gallery/gallery-01.jpg"
+      image_webp : "/images/gallery/gallery-01.webp"
 
-    - image : "images/gallery/gallery-02.jpg"
-      image_webp : "images/gallery/gallery-02.webp"
+    - image : "/images/gallery/gallery-02.jpg"
+      image_webp : "/images/gallery/gallery-02.webp"
       
-    - image : "images/gallery/gallery-03.jpg"
-      image_webp : "images/gallery/gallery-03.webp"
+    - image : "/images/gallery/gallery-03.jpg"
+      image_webp : "/images/gallery/gallery-03.webp"
 
 ############################## amenities ##############################
 amenities:

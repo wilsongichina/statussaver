@@ -2,8 +2,8 @@
 title: "Innovation distinguishes between a leader and a follower."
 date: 2019-02-28T12:35:54+06:00
 # post thumb
-image : "images/blog/post-03.jpg"
-image_webp : "images/blog/post-03.webp"
+image : "/images/blog/post-03.jpg"
+image_webp : "/images/blog/post-03.webp"
 # post author
 author : "Thomas Johnson"
 # meta description
