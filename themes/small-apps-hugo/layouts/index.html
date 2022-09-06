@@ -32,7 +32,7 @@
 				<h1 class="text-white font-weight-bold mb-4">{{ .title | safeHTML | markdownify }}</h1>
 				<p class="text-white mb-5">{{ .content | safeHTML | markdownify }}</p>
 				{{ range $i, $e := .b_button }}
-				<a href="{{ .link | absLangURL }}"><img src="{{ .image_path }}" alt="" width="{{ if eq $i 0 }}200px{{ else }} 220px{{ end }}"></a>
+				<a href="{{ .link | absLangURL }}" target="_blank"><img src="{{ .image_path }}" alt="" width="{{ if eq $i 0 }}200px{{ else }} 220px{{ end }}"></a>
 				{{ end }}
 			</div>
 			<div class="col-md-6 text-center order-1 order-md-2">
@@ -260,16 +260,10 @@
 			<div class="col-lg-12">
 				<h2>{{ .title | safeHTML | markdownify }}</h2>
 				<p>{{ .subtitle | safeHTML | markdownify }}</p>
-				<ul class="list-inline">
-					{{ range .download_buttons }}
-					<li class="list-inline-item">
-						<a href="{{ .link | safeURL }}" class="btn btn-rounded-icon">
-							<i class="{{ .icon }}"></i>
-							{{ .label }}
-						</a>
-					</li>
+					{{ range $i, $e := .b_button }}
+					<a href="{{ .link | absLangURL }}" target="_blank"><img src="{{ .image_path }}" alt="" width="{{ if eq $i 0 }}200px{{ else }} 220px{{ end }}"></a>
 					{{ end }}
-				</ul>
+				
 			</div>
 		</div>
 	</div>

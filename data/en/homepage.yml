@@ -9,9 +9,9 @@ banner:
   image: "/images/mobile.png"
   b_button:
   - image_path: "/images/download-on-the-app-store.svg"
-    link: "#"
+    link: "https://www.google.com/"
   - image_path: "/images/Google_Play_Store_badge_EN.svg"
-    link: "#"
+    link: "https://www.google.com/"
 banner_feature:
   enable: true
   feature_item:
@@ -122,10 +122,8 @@ download:
   title: It's Time to change your mind
   subtitle: Download over 2 million humans .Get Small Apps free forever! <br>We say
     you won’t look back.
-  download_buttons:
-  - label: Iphone
-    icon: tf-ion-social-apple
-    link: "#"
-  - label: Android
-    icon: tf-ion-social-android
-    link: "#"
+  b_button:
+  - image_path: "/images/download-on-the-app-store.svg"
+    link: "https://www.google.com/"
+  - image_path: "/images/Google_Play_Store_badge_EN.svg"
+    link: "https://www.google.com/"
