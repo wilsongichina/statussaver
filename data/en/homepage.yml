@@ -3,8 +3,8 @@ banner:
   enable: true
   background_shapes: true
   title: Save Status with Whatsapp Status Downloader - Status Saver
-  content: Besides its beautiful design. Laapp is an incredibly rich core framework
-    for you to showcase your App.
+  content: Besides its beautiful design. Status Saver is an incredibly App to enable
+    you save your Video and photo Whatsapp Status
   image_webp: "/images/mobile.webp"
   image: "/images/mobile.png"
   b_button:
