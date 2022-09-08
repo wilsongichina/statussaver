@@ -16,11 +16,11 @@ banner_feature:
   enable: true
   feature_item:
   - icon: tf-ion-paintbucket
-    title: themes made easy
+    title: Download Images and Videos
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam non,
       recusandae tempore ipsam dignissimos molestias.
   - icon: tf-ion-load-b
-    title: powerful design
+    title: Recover Deleted Messages
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam non,
       recusandae tempore ipsam dignissimos molestias.
   - icon: tf-ion-ios-lightbulb
