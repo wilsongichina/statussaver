@@ -33,21 +33,29 @@ feature:
   - title: Status Downloader Unique Features
     image: "/images/feature/feature-new-01.jpg"
     image_webp: "/images/feature/feature-new-01.webp"
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    content: |-
+      -Supports HD videos and photos.
+      -Free Status downloader and free Status saver.
+      -Play videos offline with the built-in video player.
+      -Download and save statuses and use them offline.
+      -No login required, easy to save WhatsApp Statuses.
+      -Works for both WhatsApp and WhatsApp Business.
     quote:
       enable: true
       name: Jonathon Andrew , Themefisher.com
       avater: "/images/testimonial/feature-testimonial-thumb.jpg"
       comment: InVision is a window into everything that's being designed at Twitter.
         It gets all of our best work in one place.
-  - title: Increase your productivity with Small Apps
+  - title: Status Saver Extensive Flexibility
     image: "/images/feature/feature-new-02.jpg"
     image_webp: "/images/feature/feature-new-02.webp"
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    content: |-
+      (Rephase this to paragraph)
+      -The WhatsApp status saver works offline which makes it accessible 24x7.
+      -Recover deleted messages if there is something that you have missed out.
+      -All notifications are saved automatically which can be accessed as and when required.
+      -Share or repost downloaded videos and photos of WhatsApp Status using this free status saver.
+      -Upgrade your account on the WhatsApp status download app and access specialized features to make it more interesting and fun-loving.
     quote:
       enable: true
       name: Jonathon Andrew , Themefisher.com
