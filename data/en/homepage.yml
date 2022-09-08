@@ -2,16 +2,16 @@
 banner:
   enable: true
   background_shapes: true
-  title: Save Status with Whatsapp Status Downloader - Status Saver
+  title: Whatsapp Status Downloader - Status Saver
   content: Besides its beautiful design. Status Saver is an incredibly App to enable
     you save your Video and photo Whatsapp Status
   image_webp: "/images/mobile.webp"
   image: "/images/mobile.png"
   b_button:
   - image_path: "/images/download-on-the-app-store.svg"
-    link: "https://www.google.com/"
+    link: https://www.google.com/
   - image_path: "/images/Google_Play_Store_badge_EN.svg"
-    link: "https://www.google.com/"
+    link: https://www.google.com/
 banner_feature:
   enable: true
   feature_item:
@@ -124,6 +124,6 @@ download:
     you won’t look back.
   b_button:
   - image_path: "/images/download-on-the-app-store.svg"
-    link: "https://www.google.com/"
+    link: https://www.google.com/
   - image_path: "/images/Google_Play_Store_badge_EN.svg"
-    link: "https://www.google.com/"
+    link: https://www.google.com/
