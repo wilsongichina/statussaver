@@ -30,7 +30,7 @@ banner_feature:
 feature:
   enable: true
   feature_item:
-  - title: Increase your productivity with Small Apps
+  - title: Status Downloader Unique Features
     image: "/images/feature/feature-new-01.jpg"
     image_webp: "/images/feature/feature-new-01.webp"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
