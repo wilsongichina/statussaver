@@ -64,25 +64,25 @@ feature:
         It gets all of our best work in one place.
 service:
   enable: true
-  title: An Interface For Lifestyle
-  subtitle: Small Apps makes it easy to stay on top of your Life Style. No late tasks.
-    No gimmicks.
+  title: Important Features of Status Saver App
+  subtitle: Status Saver is an effective video and imagers saver for WhatsApp that
+    can enable you to download any images and videos from your contacts statuses.
   image: "/images/feature/iphone-ipad.jpg"
   image_webp: "/images/feature/iphone-ipad.webp"
   service_item:
-  - name: Easy Prototyping
+  - name: Easy to use
     icon: tf-ribbon
     content: Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur
       aliquet quam id dui
-  - name: Sensor Bridge
+  - name: Multi Save and Deleted
     icon: tf-puzzle
     content: Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur
       aliquet quam id dui
-  - name: Strategist
+  - name: Supports WA Status and WA Business
     icon: tf-bargraph
     content: Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur
       aliquet quam id dui
-  - name: Art Direction
+  - name: In-built Video Player
     icon: tf-adjustments
     content: Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur
       aliquet quam id dui
