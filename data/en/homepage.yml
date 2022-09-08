@@ -88,9 +88,8 @@ service:
       aliquet quam id dui
 promo_video:
   enable: true
-  title: Watch Our Promo Video
-  content: Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur arcu erat,
-    accumsan id imperdiet et, porttitor at sem. Vivamus
+  title: How it Works
+  content: How to Download WhatsApp Status from Your Contacts
   bg_image: "/images/background/promo-video-back.jpg"
   bg_image_webp: "/images/background/promo-video-back.webp"
   video_embed_url: https://www.youtube.com/embed/ResipmZmpDU
