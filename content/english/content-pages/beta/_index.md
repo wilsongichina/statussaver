@@ -1,6 +1,6 @@
 ---
 title: Beta-Test
-url: en/beta
+url: /beta
 date: 2019-02-28T12:35:54.000+06:00
 image: "/images/blog/post-02.jpg"
 image_webp: "/images/blog/post-02.webp"
