@@ -31,9 +31,11 @@
 			<div class="col-md-6 order-1 order-md-1 text-center">
 				<h1 class="text-white font-weight-bold mb-4">{{ .title | safeHTML | markdownify }}</h1>
 				<p class="text-white mb-5">{{ .content | safeHTML | markdownify }}</p>
-				{{ range $i, $e := .b_button }}
-				<a href="{{ .link | absLangURL }}" target="_blank"><img src="{{ .image_path }}" alt="" width="{{ if eq $i 0 }}200px{{ else }} 220px{{ end }}"></a>
-				{{ end }}
+				<div>
+					{{ range $i, $e := .b_button }}
+					<a class="link-img" href="{{ .link | absLangURL }}" target="_blank"><img src="{{ .image_path }}" alt="" width=""></a>
+					{{ end }}
+				</div>
 			</div>
 			<div class="col-md-6 text-center order-2 order-md-2">
 				<img src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" class="img-fluid" alt="banner-image">
