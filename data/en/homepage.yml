@@ -99,13 +99,28 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
-  - name: Abraham Linkon , Themefisher.com
+  - name: ''
+    image: ''
+    content: ''
+  - name: ''
+    image: ''
+    content: ''
+  - name: ''
+    image: ''
+    content: ''
+  - name: ''
+    image: ''
+    content: ''
+  - name: ''
+    image: ''
+    content: ''
+  - name: Lisa N. ,statussaver.com
     image: "/images/testimonial/feature-testimonial-thumb.jpg"
-    content: Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin
-      molestie malesuada. Donec sollicitudin molestie malesuada. Pellentesque in ipsum
-      id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut
-      lacinia in, elementum id enim.
+    content: I made the decision to try them out after hearing good things about their
+      website. They didn't let me down with my initial order. I didn't believe I could
+      pass my class. On any homework or exam assignment they were able to help me
+      with, they never gave me anything less than an A. These tutors are quick, smart,
+      and interested in a variety of things. You can rely on this service to not disappoint.
 faq_list:
 - title: Getting Started
   faq_item:
