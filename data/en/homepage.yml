@@ -99,9 +99,16 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
-  - name: " Kadine A. ,statussaver.com"
+  - name: Hiba S. ,statussaver.com
     image: "/images/testimonial/feature-testimonial-thumb.jpg"
-    content: ''
+    content: Before hearing about the company, I had been battling some irritating
+      course grades that weren't really satisfying. I need to find a way to impress
+      my parents before the semester is out with at least some high grades to demonstrate
+      an improvement after they voiced their displeasure with my performance. I asked
+      my pals for guidance, and one suggested I try this company. I did some preliminary
+      research on the business that evening before placing an order. The business
+      has been pleasant, and the grades are now excellent. The nicest part is that
+      they have been quite helpful and reasonably priced for me.
   - name: Roy H. ,statussaver.com
     image: "/images/testimonial/feature-testimonial-thumb.jpg"
     content: I had always hoped to do well in my class, but I was not very adept at
