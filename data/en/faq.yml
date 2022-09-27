@@ -10,16 +10,15 @@ faq_list:
       in which you can save the chosen WhatsApp Status, such as your device's internal
       storage. To store the Status, tap the location where you wish to save the downloaded
       item.
-  - question: What devices are supported for Android Instant Apps?
-    answer: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
-      cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit
-      amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget
-      tortor risus. Vivamus magna justo, lacinia eget consectetur sed, convallis at
-      tellus. Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus
-      nibh. Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit
-      amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl
-      tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt
-      nibh pulvinar a.
+  - question: Is WhatsApp status automatically saved?
+    answer: The status files are locally saved by WhatsApp on the device. However,
+      these are removed within a day. To save them in a safe place, you can transfer
+      them out of the temporary file. The status images and videos you have viewed
+      during the last 24 hours on WhatsApp are automatically downloaded to your device's
+      file explorer. Therefore, you are not required to use a third-party tool like
+      WhatsApp Status Saver. However, WhatsApp status Saver is recommended to save
+      movies and photographs because the folder in which the media files are stored
+      is concealed by default.
   - question: What countries are Android Instant Apps supported in?
     answer: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
       cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit
