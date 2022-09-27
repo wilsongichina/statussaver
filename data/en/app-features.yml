@@ -44,13 +44,12 @@ about_us:
       see the Status updates offline, let them load and then turn off mobile data
       on your device. Then read the desired Status, but make sure not to activate
       your connection until the desired Status has passed.
-  - title: What we do
+  - title: 'Share and repost '
     image: "/images/about/plan.jpg"
     image_webp: "/images/about/plan.webp"
-    content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
-      parturient montes, nascetur ridiculus mus. Nulla consequat massa.Donec pede
-      justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+    content: One can update their status, but they can control how many people see
+      it by limiting the settings to only sharing with a select group or posting to
+      their contacts. The ability to download and republish WhatsApp status is provided.
 quote_slider:
   enable: true
   slider_item:
