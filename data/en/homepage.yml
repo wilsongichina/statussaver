@@ -17,8 +17,9 @@ banner_feature:
   feature_item:
   - icon: tf-ion-paintbucket
     title: Download Images and Videos
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam non,
-      recusandae tempore ipsam dignissimos molestias.
+    content: Open the Gallery app and search for "WhatsApp Images" to find all the
+      downloaded images. Videos and images downloaded on WhatsApp are saved to a WhatsApp
+      folder in the Gallery.
   - icon: tf-ion-load-b
     title: Recover Deleted Messages
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam non,
