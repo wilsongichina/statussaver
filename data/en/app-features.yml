@@ -31,13 +31,12 @@ behind_story:
 about_us:
   enable: true
   about_item:
-  - title: Our Story
+  - title: Fast
     image: "/images/about/story.jpg"
     image_webp: "/images/about/story.webp"
-    content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
-      parturient montes, nascetur ridiculus mus. Nulla consequat massa.Donec pede
-      justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+    content: The status files are locally saved by WhatsApp on the device. However,
+      these are removed within a day. To save them to a secure location, you can copy
+      them out of the temporary folder.
   - title: What we do
     image: "/images/about/plan.jpg"
     image_webp: "/images/about/plan.webp"
