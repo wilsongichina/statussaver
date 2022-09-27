@@ -92,7 +92,7 @@ service:
 promo_video:
   enable: true
   title: How it Works
-  content: How to Download WhatsApp Status from Your Contacts
+  content: For WhatsApp status downloads, use StatusSaver.com.
   bg_image: "/images/background/promo-video-back.jpg"
   bg_image_webp: "/images/background/promo-video-back.webp"
   video_embed_url: https://www.youtube.com/embed/ResipmZmpDU
