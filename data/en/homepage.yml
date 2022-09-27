@@ -86,8 +86,9 @@ service:
       from regular WhatsApp, it functions similarly and connects clients and businesses.
   - name: In-built Video Player
     icon: tf-adjustments
-    content: Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur
-      aliquet quam id dui
+    content: The built-in video player is intended to assist with playing videos and
+      resolve issues based on a video not playing; changing the settings would help
+      with this.
 promo_video:
   enable: true
   title: How it Works
