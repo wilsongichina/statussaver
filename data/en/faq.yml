@@ -36,23 +36,10 @@ faq_list:
       to access the Media folder and see a folder called Statuses. All of the WhatsApp
       Status pictures and videos you've seen are saved in this folder and may be retrieved
       from there.
-  - question: What Android APIs and functionality can instant apps use?
-    answer: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
-      cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit
-      amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget
-      tortor risus. Vivamus magna justo, lacinia eget consectetur sed, convallis at
-      tellus. Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus
-      nibh. Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit
-      amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl
-      tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt
-      nibh pulvinar a.
-  - question: Can users choose to install the app permanently?
-    answer: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
-      cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit
-      amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget
-      tortor risus. Vivamus magna justo, lacinia eget consectetur sed, convallis at
-      tellus. Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus
-      nibh. Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit
-      amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl
-      tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt
-      nibh pulvinar a.
+  - question: " How can I check WhatsApp status without seeing it?"
+    answer: The individuals who have watched Status are visible when you tap the eye
+      icon. But here's how to prevent your name from showing up in the list of status
+      views. Deactivate read receipts. We are all aware of how read receipts for conversations
+      function, but you can also use them to verify someone's position officially
+      without letting them know. Toggle "Read receipts" to enable this so you can
+      check your Whatsapp messages privately by going to Settings > Account > Privacy.
