@@ -99,21 +99,25 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
-  - name: ''
-    image: ''
+  - name: " Kadine A. ,statussaver.com"
+    image: "/images/testimonial/feature-testimonial-thumb.jpg"
     content: ''
-  - name: ''
-    image: ''
+  - name: " Kadine A. ,statussaver.com"
+    image: "/images/testimonial/feature-testimonial-thumb.jpg"
     content: ''
-  - name: ''
-    image: ''
+  - name: " Kadine A. ,statussaver.com"
+    image: "/images/testimonial/feature-testimonial-thumb.jpg"
     content: ''
-  - name: ''
-    image: ''
+  - name: " Kadine A. ,statussaver.com"
+    image: "/images/testimonial/feature-testimonial-thumb.jpg"
     content: ''
-  - name: ''
-    image: ''
-    content: ''
+  - name: " Kadine A. ,statussaver.com"
+    image: "/images/testimonial/feature-testimonial-thumb.jpg"
+    content: I got in touch with them and gave them charge of my two courses. Since
+      a friend had recommended this company to me and promised me excellent work,
+      I wasn't sure how well they would handle my work. I was confident they would
+      provide me with the best after working with them for the first month, and they
+      did not let me down. I'm proud to have worked with them.
   - name: Lisa N. ,statussaver.com
     image: "/images/testimonial/feature-testimonial-thumb.jpg"
     content: I made the decision to try them out after hearing good things about their
