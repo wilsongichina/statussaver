@@ -27,8 +27,8 @@ banner_feature:
       will appear after you tap next.
   - icon: tf-ion-ios-lightbulb
     title: Direct Message and Chat
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam non,
-      recusandae tempore ipsam dignissimos molestias.
+    content: As long as you know someone's contact information and they have an operational
+      WhatsApp account, WhatsApp lets you start messaging with them.
 feature:
   enable: true
   feature_item:
