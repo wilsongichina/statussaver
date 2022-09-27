@@ -20,8 +20,14 @@ our_story:
 behind_story:
   enable: true
   title: Whatsapp for Business
-  content: Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia
-    eget consectetur sed, convallis at tellus.
+  content: For the small business owner in consideration, WhatsApp Business is a free
+    app that can be downloaded on Android and iPhone. WhatsApp Business offers capabilities
+    to organize, sort, and swiftly react to messages, which makes communicating with
+    customers simple. The world's top connection software in recent years is WhatsApp
+    Business. It is the most beneficial to employees in a company since it is simple
+    to use, allows for direct client communication, and the vast majority of individuals
+    utilize WhatsApp Business. It offers several advantages like privacy and customization,
+    security and dependability, and two-way interaction.
 about_us:
   enable: true
   about_item:
