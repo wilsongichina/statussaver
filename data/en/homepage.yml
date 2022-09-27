@@ -66,15 +66,15 @@ feature:
 service:
   enable: true
   title: Important Features of Status Saver App
-  subtitle: Status Saver is an effective video and imagers saver for WhatsApp that
-    can enable you to download any images and videos from your contacts statuses.
+  subtitle: Status Saver is an excellent video and image saver for WhatsApp that may
+    assist you to download any photos and videos from your friend’s statuses.
   image: "/images/feature/iphone-ipad.jpg"
   image_webp: "/images/feature/iphone-ipad.webp"
   service_item:
   - name: Easy to use
     icon: tf-ribbon
-    content: Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur
-      aliquet quam id dui
+    content: The statuses you viewed will be collected automatically and displayed
+      by Status Saver in an orderly fashion.
   - name: Multi Save and Deleted
     icon: tf-puzzle
     content: Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur
