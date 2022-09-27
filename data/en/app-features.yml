@@ -37,13 +37,13 @@ about_us:
     content: The status files are locally saved by WhatsApp on the device. However,
       these are removed within a day. To save them to a secure location, you can copy
       them out of the temporary folder.
-  - title: What we do
+  - title: Offline view
     image: "/images/about/plan.jpg"
     image_webp: "/images/about/plan.webp"
-    content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
-      parturient montes, nascetur ridiculus mus. Nulla consequat massa.Donec pede
-      justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+    content: You must access WhatsApp and select the Status tab. If you desire to
+      see the Status updates offline, let them load and then turn off mobile data
+      on your device. Then read the desired Status, but make sure not to activate
+      your connection until the desired Status has passed.
   - title: What we do
     image: "/images/about/plan.jpg"
     image_webp: "/images/about/plan.webp"
