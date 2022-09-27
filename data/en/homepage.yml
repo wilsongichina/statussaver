@@ -77,8 +77,9 @@ service:
       by Status Saver in an orderly fashion.
   - name: Multi Save and Deleted
     icon: tf-puzzle
-    content: Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur
-      aliquet quam id dui
+    content: More than two status updates can be stored by downloading a Status Save,
+      opening the app, and allowing it access to your device's storage after seeing
+      the status.
   - name: Supports WA Status and WA Business
     icon: tf-bargraph
     content: Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur
