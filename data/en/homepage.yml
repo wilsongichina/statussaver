@@ -135,21 +135,6 @@ faq_list:
       allows you to access photos, videos, and GIF files through the WhatsApp application.
       WhatsApp Business enables users to save promoted products that they can subsequently
       use to make purchases and acquire the same thing that was marketed.
-  - question: Where does WhatsApp status get saved?
-    answer: You instantly save media files to your WhatsApp/Media/folder. The WhatsApp
-      folder is housed in your device's internal storage if you have it. The folder
-      will be located on your SD Card or External SD Card if your device lacks internal
-      memory. As an option, when you have hidden files accessible, you should be able
-      to access the Media folder and see a folder called Statuses. All of the WhatsApp
-      Status pictures and videos you've seen are saved in this folder and may be retrieved
-      from there.
-  - question: How can I check WhatsApp status without seeing it?
-    answer: The individuals who have watched Status are visible when you tap the eye
-      icon. But here's how to prevent your name from showing up in the list of status
-      views. Deactivate read receipts. We are all aware of how read receipts for conversations
-      function, but you can also use them to verify someone's position officially
-      without letting them know. Toggle "Read receipts" to enable this so you can
-      check your Whatsapp messages privately by going to Settings > Account > Privacy.
 download:
   enable: true
   title: It's Time to change your mind
