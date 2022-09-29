@@ -2,6 +2,7 @@
 title: Frequently Asked Questions
 description: Get Whatsapp Status Saver Today!
 seo:
-  title: SEO title will come here
+  title: Frequently Asked Questions - Status Saver
   description: SEO Description will come here
+
 ---
