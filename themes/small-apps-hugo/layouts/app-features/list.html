@@ -3,8 +3,8 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ "<!-- Our Story -->" | safeHTML }}
-{{ if $data.about.our_story.enable }}
-{{ with $data.about.our_story }}
+{{ if $data.app_features.our_story.enable }}
+{{ with $data.app_features.our_story }}
 <section class="section about p-0">
   <div class="container">
     <div class="row">
@@ -32,8 +32,8 @@
 
 
 {{ "<!-- Behind Story -->" | safeHTML }}
-{{ if $data.about.behind_story.enable }}
-{{ with $data.about.behind_story }}
+{{ if $data.app_features.behind_story.enable }}
+{{ with $data.app_features.behind_story }}
 <section class="section">
   <div class="container">
     <div class="row">
@@ -52,8 +52,8 @@
 
 
 {{ "<!-- about us -->" | safeHTML }}
-{{ if $data.about.about_us.enable }}
-{{ with $data.about.about_us }}
+{{ if $data.app_features.about_us.enable }}
+{{ with $data.app_features.about_us }}
 <section class="section create-stories pt-0">
   <div class="container">
     <div class="row">
@@ -75,13 +75,13 @@
 
 
 {{ "<!-- Quotes Slider -->" | safeHTML }}
-{{ if $data.about.quote_slider.enable }}
+{{ if $data.app_features.quote_slider.enable }}
 <section class="section quotes pt-0">
   <div class="container">
     <div class="row">
       <div class="col-10 m-auto text-center">
         <div class="quote-slider owl-carousel owl-theme">
-          {{ range $data.about.quote_slider.slider_item }}
+          {{ range $data.app_features.quote_slider.slider_item }}
           <div class="item">
             <h2>{{ .quote }}</h2>
             <cite>-{{ .quote_by }}</cite>
@@ -97,8 +97,8 @@
 
 
 {{ "<!-- Client Slider -->" | safeHTML }}
-{{ if $data.about.clients_logo_slider.enable }}
-{{ with $data.about.clients_logo_slider }}
+{{ if $data.app_features.clients_logo_slider.enable }}
+{{ with $data.app_features.clients_logo_slider }}
 <section class="section clients bg-gray">
   <div class="container">
     <div class="row">
@@ -121,8 +121,8 @@
 
 
 {{ "<!-- call to action -->" | safeHTML }}
-{{ if $data.about.call_to_action.enable }}
-{{ with $data.about.call_to_action }}
+{{ if $data.app_features.call_to_action.enable }}
+{{ with $data.app_features.call_to_action }}
 <section class="section cta-hire bg-gary">
   <div class="container">
     <div class="row">
